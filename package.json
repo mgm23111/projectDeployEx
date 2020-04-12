@@ -2,7 +2,7 @@
   "name": "confeccionessully",
   "version": "0.0.0",
   "scripts": {
-    "ng": "ng", 
+    "ng": "ng",
     "start": "node server.js",
     "build": "ng build",
     "test": "ng test",
@@ -65,7 +65,7 @@
     "typescript": "~3.5.3"
   },
   "engines": {
-    "node":"12.10.0",
-    "npm":"6.10.3"
+    "node": "12.10.0",
+    "npm": "6.10.3"
   }
 }
